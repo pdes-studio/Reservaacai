@@ -12,12 +12,11 @@ src: url(../fonts/Hansief Rough.otf);
 
 body{	
 	background: url(../img/BG-4.jpg) fixed;
-	font-family: 'Hansief Rough';
+	font-family: Hansief Rough;
 	text-transform: uppercase;
 	overflow-x: hidden;
 }
 
-h1, h2, h3 {font-family: 'Hansief Rough'}
 
 h1{ font-size: 72px; color: #ACCF3A;}
 h2{ font-size: 48px; color: white; }
