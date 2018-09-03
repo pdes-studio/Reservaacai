@@ -3,6 +3,12 @@ img { /* Imagem fluída */
 	max-width: 100%;
 }
 
+@font-face{
+font-family: 'Hansief Rough';
+src: url(../fonts/Hansief Rough.otf);
+}
+
+
 body{	
 	background: url(../img/BG-4.jpg) fixed;
 	font-family: 'Hansief Rough';
