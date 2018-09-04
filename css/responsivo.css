@@ -42,7 +42,7 @@ h2{ font-size: 24px; color: white; }
 
 .container {width: 300px;}
 
-body{background: #600757;}
+body{background: url(../img/bg-m-2.jpg) fixed no-repeat;}
 
 * > img{max-width: 280px;}
 
