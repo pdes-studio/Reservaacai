@@ -192,9 +192,9 @@ body{background: url(../img/bg-m-2.jpg) fixed no-repeat; background-size: cover;
 
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 360px) {
     body{
         background: url(../img/bg-m-2.jpg) fixed no-repeat;
-        background-size: 320px auto;
-        background-position: center center;
+        background-size: 340px auto;
+        background-position: top;
     }
